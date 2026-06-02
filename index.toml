@@ -503,6 +503,11 @@ hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a4af1bf7389eddd65fb5b665b711e0b25e9e8ccb6b17a1fb50aff8d886859ad6"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "1d37ac39109aa15d03a3a7ddf6402d63f72277acafca53f61830046acfe6edb0"
 metafile = true
@@ -580,6 +585,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "5a334201feff0fb2f76d486399f47d0ce5b5818c284fea895706c92bb2119470"
 metafile = true
 
 [[files]]
