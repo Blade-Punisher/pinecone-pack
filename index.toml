@@ -256,6 +256,11 @@ hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
 
 [[files]]
+file = "mods/emojiful.pw.toml"
+hash = "11845b676d375dc89cd0d41ae637e51f78c8747c73baaa3f6539a703196eefe1"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "ee66efb9eae03c2f060086e26c9d9e4a9fbece4cd1f8fc92dfbf2771f3bad296"
 metafile = true
