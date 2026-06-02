@@ -603,5 +603,385 @@ hash = "5a334201feff0fb2f76d486399f47d0ce5b5818c284fea895706c92bb2119470"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "4971458abbe0fcd7375bcae04e635cfa6a5d8e2d1cee90865bba404fc4f66305"
+file = "server-build/config/create-server.toml"
+hash = "00e69a4be3b02c17014d714ea6e9af7b4ec9afa26affd78101507db9b92bc0a6"
+
+[[files]]
+file = "server-build/config/industrial_fantasy_notes.txt"
+hash = "e8321f6b86c91ba4d42ca01e30ea84e5c2cf6c4242fd3f123f97ca25d00e62b8"
+
+[[files]]
+file = "server-build/config/paxi/datapacks/industrial_fantasy_xaero_fair_autorun.zip"
+hash = "4e92bfe2b8593be03892b6a0903dd904c706c9c30a6fda690acd43ba60d0cf90"
+
+[[files]]
+file = "server-build/mods/Almanac-1.21.1-2-neoforge-1.5.2.jar"
+hash = "379893246c33aaa6dd8e4a8711e349cd6835e08c2bd5b8bd7b7e81be9822aacb"
+
+[[files]]
+file = "server-build/mods/Chunky-NeoForge-1.4.23.jar"
+hash = "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
+
+[[files]]
+file = "server-build/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar"
+hash = "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e"
+
+[[files]]
+file = "server-build/mods/CreateDragonsPlus-1.10.1.jar"
+hash = "a192bc7074232e6e6a4acc7620a66f28a1fa314235ef2648edae034b1434b428"
+
+[[files]]
+file = "server-build/mods/CreativeCore_NEOFORGE_v2.13.39_mc1.21.1.jar"
+hash = "2c052898f729a7b19b95b3776647293632d0f9f2abb3afe0a0ec39296f90c3c3"
+
+[[files]]
+file = "server-build/mods/Explorify v1.6.5.mod.jar"
+hash = "2dc76398b48b2aae9b4024642da098b0880125572de160cb5ecf91d102890cad"
+
+[[files]]
+file = "server-build/mods/FarmersDelight-1.21.1-1.3.2.jar"
+hash = "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7"
+
+[[files]]
+file = "server-build/mods/Jade-1.21.1-NeoForge-15.10.5.jar"
+hash = "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
+
+[[files]]
+file = "server-build/mods/Ksyxis-1.4.3.jar"
+hash = "23c8c5993004f0584eb27b19b4397b7aa8833f41b8f2d1ea201ee54a60f964b9"
+
+[[files]]
+file = "server-build/mods/L_Ender's Cataclysm 1.21.1-3.27.jar"
+hash = "fa4e8abd15aa86333d6a5fe20b05c4fe423ac865da7319be7808d321bcb3930c"
+
+[[files]]
+file = "server-build/mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar"
+hash = "0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c"
+
+[[files]]
+file = "server-build/mods/Nullscape_1.21.x_v1.2.14.jar"
+hash = "8749c6fdda659335e50116c18e012cdf8699b3789859c82559af2c6f425c93ae"
+
+[[files]]
+file = "server-build/mods/Patchouli-1.21.1-93-NEOFORGE.jar"
+hash = "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993"
+
+[[files]]
+file = "server-build/mods/Paxi-1.21.1-NeoForge-5.1.3.jar"
+hash = "4b60f8eb3b8b8880eff7c3ac825cde84394848eac3915ed61ade607cdd331ce7"
+
+[[files]]
+file = "server-build/mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar"
+hash = "68036561cc5511766d54cc0deabc3fc3a5e68f9e3db2478f2574ec82b494374b"
+
+[[files]]
+file = "server-build/mods/Structory_26.1_v1.3.16.jar"
+hash = "2591265c9899bbb7305b4d6992e2a5fa1aff1bc691c724d3da34761b806251b7"
+
+[[files]]
+file = "server-build/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
+
+[[files]]
+file = "server-build/mods/Terralith_1.21.x_v2.5.8.jar"
+hash = "00333a130ac38b7b9ca93700098d5e02e0612bdc2d3522aada2f36e5600621bf"
+
+[[files]]
+file = "server-build/mods/YungsApi-1.21.1-NeoForge-5.1.6.jar"
+hash = "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca"
+
+[[files]]
+file = "server-build/mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar"
+hash = "7585587e5cb7859e26189c6ec0a5b829c5c228f095e4e843fa3add61f817dd20"
+
+[[files]]
+file = "server-build/mods/ae2wtlib-19.5.0.jar"
+hash = "decf9a35c6d08c160a65a30fe623fd9c09ad5f5dd1790052917f19c82441bd16"
+
+[[files]]
+file = "server-build/mods/alternate_current-mc1.21-1.9.0.jar"
+hash = "d23731fcb31cf561544fd7a97b0076b3abb42a0ece0631f86de9a1425fe046f5"
+
+[[files]]
+file = "server-build/mods/amendments-1.21-2.0.15-neoforge.jar"
+hash = "e44e67d5c2eb5a73ee8ca3d1e9099ed20ccbf8167022bc407df8434b1bf362b5"
+
+[[files]]
+file = "server-build/mods/appleskin-neoforge-mc1.21-3.0.9.jar"
+hash = "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
+
+[[files]]
+file = "server-build/mods/appliedenergistics2-19.2.17.jar"
+hash = "460d779a0609b81409907d9956de8f6f70a1b0912257e3e5c3c7e75ac9630e95"
+
+[[files]]
+file = "server-build/mods/architectury-13.0.8-neoforge.jar"
+hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+
+[[files]]
+file = "server-build/mods/ars_nouveau-1.21.1-5.11.5.jar"
+hash = "69ca663e7e2b000767b771bde75467f11b2aeef61d1096373d67a3aa7def125f"
+
+[[files]]
+file = "server-build/mods/balm-neoforge-1.21.1-21.0.58.jar"
+hash = "aa2463747bad4c2351869226ea7bce7839510dfd2ac387f8d1588b1ce9309c67"
+
+[[files]]
+file = "server-build/mods/bellsandwhistles-0.4.7-1.21.1.jar"
+hash = "a438cf2ea3a05120e12342484f1e12ca11526fbf4195d259ce1d7df8a9b3ffca"
+
+[[files]]
+file = "server-build/mods/carryon-neoforge-1.21.1-2.2.4.4.jar"
+hash = "ad69537be8be8b433227792e43f8df7b4d3cef7e359255d471a44e776ad8dd57"
+
+[[files]]
+file = "server-build/mods/chipped-neoforge-1.21.1-4.0.2.jar"
+hash = "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291"
+
+[[files]]
+file = "server-build/mods/citadel-2.7.0-1.21.1.jar"
+hash = "a80af1dbc6d00ea908366bcc175951a11fbf83a12aeadd36b5035a772ff7c3a6"
+
+[[files]]
+file = "server-build/mods/cloth-config-15.0.140-neoforge.jar"
+hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+
+[[files]]
+file = "server-build/mods/copycats-3.0.4+mc.1.21.1-neoforge.jar"
+hash = "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
+
+[[files]]
+file = "server-build/mods/create-1.21.1-6.0.10.jar"
+hash = "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+
+[[files]]
+file = "server-build/mods/create-aeronautics-bundled-1.21.1-1.2.1.jar"
+hash = "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248"
+
+[[files]]
+file = "server-build/mods/create-enchantment-industry-2.3.1.jar"
+hash = "6bd60393cf582568a09aa38f82fe6ea6e5928659d7befc6b0ee9f46025179064"
+
+[[files]]
+file = "server-build/mods/create_connected-1.2.0-mc1.21.1.jar"
+hash = "4cd981c0ef9eaca586ff95e934937dc2834c9693ec58502501045efff262dd62"
+
+[[files]]
+file = "server-build/mods/create_mobile_packages-1.21.1-0.7.6.jar"
+hash = "e230eabb8c90f40c38d6527107655d9bd6fa907ce209ece7c9ed331a8362764a"
+
+[[files]]
+file = "server-build/mods/create_structures_arise-176.49.48 NeoForge 1.21.1.jar"
+hash = "1d871fe9071da0cfae8664876b2efd6a7e9514eb94bb5be2380b231c01901d05"
+
+[[files]]
+file = "server-build/mods/create_vibrant_vaults-0.3.2.jar"
+hash = "cebf5d1d1793fbfc2ee25b63d6f929910ad04ff72da5c1a6987d33961708cff1"
+
+[[files]]
+file = "server-build/mods/createaddition-1.5.11.jar"
+hash = "e9f597d3a057a05ce5636a3152f65180e362b8ff6a03d6702ef622619c2d15fd"
+
+[[files]]
+file = "server-build/mods/createbigcannons-5.11.3+mc.1.21.1.jar"
+hash = "16cb451c1673198131148cec8196bb6325b3eb85168172bd629c0b93261381df"
+
+[[files]]
+file = "server-build/mods/createdeco-2.1.3.jar"
+hash = "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
+
+[[files]]
+file = "server-build/mods/createframed-1.21.1-1.7.3.jar"
+hash = "36a529c807047a1365a57411328780a58c1889b0eb3b5b57af206dd8244c6da3"
+
+[[files]]
+file = "server-build/mods/createpropulsion-1.1.4.jar"
+hash = "816329242ce595d0f8b8bd1a7ea00df48470d41f5b79240fab682bbfbe6f39a1"
+
+[[files]]
+file = "server-build/mods/createreautomated-1.21.1-neoforge-0.2.0.jar"
+hash = "ed558ec24b8c2999cce119b70b4ee450bd1b983fbf03acbf38ddf8919e9040ef"
+
+[[files]]
+file = "server-build/mods/cristellib-neoforge-1.21.1-3.1.5.jar"
+hash = "ffa2e46827f864c898ea511bdb9544b91a7632706e2067084b609032c5a5fc3f"
+
+[[files]]
+file = "server-build/mods/curios-neoforge-9.5.1+1.21.1.jar"
+hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+
+[[files]]
+file = "server-build/mods/emi-1.1.24+1.21.1+neoforge.jar"
+hash = "b68691f94f0727fc517cac2ab55bd6658d1179cc8cc715fe610b60c37469bc4c"
+
+[[files]]
+file = "server-build/mods/epic-fight-21.17.2-mc1.21.1-neoforge.jar"
+hash = "e6d8d9327d8f6f22359d84c504099ee1d2f082122798d28af4ba53fa2c30a021"
+
+[[files]]
+file = "server-build/mods/epic-knights-1.21.1-neoforge-10.12.jar"
+hash = "7e6c953234056e34e76fadeb534a1d86501e2e1ca5ede5f10247b12742614cf0"
+
+[[files]]
+file = "server-build/mods/epic-knights-addon-2.5-1.21.1-neoforge.jar"
+hash = "4795a2dc46c6275d8b75cc34895458fcc311f8092295abfe073870269ccfa8fc"
+
+[[files]]
+file = "server-build/mods/ferritecore-7.0.3-neoforge.jar"
+hash = "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+
+[[files]]
+file = "server-build/mods/fzzy_config-0.7.6+1.21+neoforge.jar"
+hash = "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
+
+[[files]]
+file = "server-build/mods/geckolib-neoforge-1.21.1-4.8.4.jar"
+hash = "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9"
+
+[[files]]
+file = "server-build/mods/guideme-21.1.16.jar"
+hash = "7938843929b065050375d7585398c9a478ae92a8f543ee6594161245750fd420"
+
+[[files]]
+file = "server-build/mods/handcrafted-neoforge-1.21.1-4.0.3.jar"
+hash = "6f2a776fb28ed07d370899814e5e711fbeebe31396097d78a3b550439b364948"
+
+[[files]]
+file = "server-build/mods/ironfurnaces-neoforge-1.21.1-4.3.2.jar"
+hash = "97c0d7c323fda4aa852fdce69bf1250a40323bb9d34ef6c87790e07334d1c2de"
+
+[[files]]
+file = "server-build/mods/kotlinforforge-5.11.0-all.jar"
+hash = "ac827b62ce8fe71760208671b4a694e3ccd35049075f9406a751cffb5a5c9779"
+
+[[files]]
+file = "server-build/mods/krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar"
+hash = "05ebe849611daafe533fc57ed9b5156edfa9157ced04d38a7860b1e2075984b9"
+
+[[files]]
+file = "server-build/mods/letmedespawn-1.21.x-neoforge-1.5.0.jar"
+hash = "074ffdbe34bf97b7d15fa4db7cfff547578a9c2f547479128a43d184c4ca642a"
+
+[[files]]
+file = "server-build/mods/lionfishapi-2.8.jar"
+hash = "29b54d95e7d3c34bb19a5598284a1e1361676e920eaf00ce456b6d5125f960db"
+
+[[files]]
+file = "server-build/mods/lithium-neoforge-0.15.3+mc1.21.1.jar"
+hash = "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83"
+
+[[files]]
+file = "server-build/mods/modernfix-neoforge-5.27.11+mc1.21.1.jar"
+hash = "bfc54bfb49b94dd33bc11f6f433f3d982413594baca7d3a58a0c06b2ab0cc145"
+
+[[files]]
+file = "server-build/mods/modonomicon-1.21.1-neoforge-1.120.1.jar"
+hash = "f5753e656ea6f200f3862d95a3ffab660470f09cdd222566b562aa3e465dd703"
+
+[[files]]
+file = "server-build/mods/moonlight-neoforge-1.21.1-3.0.14.jar"
+hash = "7ec257edce1d4783d3a5143f3f237dd060d3140a2dfcf46522a5052111072acd"
+
+[[files]]
+file = "server-build/mods/new_weapons-1.0.8-neoforge-1.21.1.jar"
+hash = "c8719a75048dea844cbef80987db7c761121a200299497f920e4765afaa564e5"
+
+[[files]]
+file = "server-build/mods/occultism-1.21.1-neoforge-1.215.0.jar"
+hash = "6d417b37268dd81cd06fe119017a763c240d49a3d20e590b0794749f4ab98b98"
+
+[[files]]
+file = "server-build/mods/petrolpark-1.21.1-1.4.35.jar"
+hash = "4def6af0f57645df998f8a08a51bd01d5e85347838a4b533d6e7d81f6eff84d7"
+
+[[files]]
+file = "server-build/mods/petrolsparts-1.21.1-1.2.10.jar"
+hash = "a10d3bae391aca62104af067ced9d321a053b8c14b38904caf7a78b61aa5ddb3"
+
+[[files]]
+file = "server-build/mods/polymorph-neoforge-1.1.0+1.21.1.jar"
+hash = "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b"
+
+[[files]]
+file = "server-build/mods/railways-0.2.0+neoforge-mc1.21.1.jar"
+hash = "1bd19694cfc746f261afc2f00b87d1083e734e778d65b1481094931100fca1a9"
+
+[[files]]
+file = "server-build/mods/resourcefullib-neoforge-1.21-3.0.12.jar"
+hash = "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
+
+[[files]]
+file = "server-build/mods/retrorig_pipes-1.0.1.jar"
+hash = "45951e0a3dcb252809c455b23b532b656e19987fce37a8003ddc3674277e4039"
+
+[[files]]
+file = "server-build/mods/retrorig_quarry-1.3.3.jar"
+hash = "79467e18ecc9ff6375c6ae097f82bd4db9f635ecdb3c9a2280444e296df2017b"
+
+[[files]]
+file = "server-build/mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar"
+hash = "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
+
+[[files]]
+file = "server-build/mods/sable-neoforge-1.21.1-1.2.2.jar"
+hash = "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8"
+
+[[files]]
+file = "server-build/mods/servercore-neoforge-1.5.17+1.21.1.jar"
+hash = "5d3b3ac3fc61ef304af929cec2637481eed211fc694d6074258e02abbcfe3467"
+
+[[files]]
+file = "server-build/mods/shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar"
+hash = "36c6ab0fd4b6e684e2d554c67d783067dced9906cfd2b75cae56dd9ede53407a"
+
+[[files]]
+file = "server-build/mods/simplyswords-neoforge-1.63.0-1.21.1.jar"
+hash = "4619dcf1501fc82c1a52acd4c88a466436f5c1d7d2bccc0932912a12b0bc5198"
+
+[[files]]
+file = "server-build/mods/sound-physics-remastered-neoforge-1.21.1-1.4.10.jar"
+hash = "9eeaa9defffac7e07a4d0caa803b9e5fcb88ce68e00145487cbb727dbd7b06f8"
+
+[[files]]
+file = "server-build/mods/spark-1.10.124-neoforge.jar"
+hash = "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"
+
+[[files]]
+file = "server-build/mods/supplementaries-neoforge-1.21.1-3.6.5.jar"
+hash = "c85968518ff822eb313b5ec8292f7f54d0cc9b4fe046ae5e7a3e4a40f6c8e76b"
+
+[[files]]
+file = "server-build/mods/t_and_t-neoforge-fabric-1.13.9+1.21.1.jar"
+hash = "04e3a5f6e9aa83b2f305e836ed6bceb656c7a6cae8d945415fd8d55bc2450696"
+
+[[files]]
+file = "server-build/mods/tfmg-1.2.0.jar"
+hash = "fc824a91cfe22e137c9014ed608ee9bf35f16490d2162b687666332c6eb3a555"
+
+[[files]]
+file = "server-build/mods/travelersbackpack-neoforge-1.21.1-10.1.36.jar"
+hash = "35468c8e00f77ec6649c45d9af1ea93a8f649638c7e70f9e80cdae7fab006112"
+
+[[files]]
+file = "server-build/mods/voicechat-neoforge-1.21.1-2.6.18.jar"
+hash = "fb0dc1f4bb36f471fafc86fee12b963f036ddf8d4622653509d884bbed96b1e5"
+
+[[files]]
+file = "server-build/mods/waystones-neoforge-1.21.1-21.1.33.jar"
+hash = "5cf1deb53617f3219b66f14e132eb4b33fd14080735a7cfeba026fe8a6c4304b"
+
+[[files]]
+file = "server-build/mods/xaerominimap-neoforge-1.21.1-25.3.13.jar"
+hash = "05fb78259566983b1e66501f46d6695bfab087e9630f3b65e82677b88244a1c2"
+
+[[files]]
+file = "server-build/mods/xaeros-map-server-utils-1.1.0.jar"
+hash = "7a3fa07e1781f94037b0402692bacf83f2506c3ba34faa80f1ef9131d7693d40"
+
+[[files]]
+file = "server-build/mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar"
+hash = "73b1447333e467d23645ce7b2c319f3ca951b393b44b3a6ed0f41f06927d42bb"
+
+[[files]]
+file = "server-build/server-pack-manifest.json"
+hash = "4e3720f0f9b508e8bcadadd625f4d00c16d3ad503244765b5e7803d6c168da41"

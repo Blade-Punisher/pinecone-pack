@@ -1,8 +1,3 @@
-.git/**
-.gitignore
-.gitattributes
-.packwizignore
-
 *.mrpack
 _mrpack_extract/**
 test_extract/**
@@ -14,5 +9,10 @@ manual-files.txt
 packwiz-installer.jar
 packwiz-installer-bootstrap.jar
 packwiz.json
-.pinecone-deploy.json
-server-build/
+
+options.txt
+
+.packwizignore
+.gitattributes
+.git/**
+.gitignore
