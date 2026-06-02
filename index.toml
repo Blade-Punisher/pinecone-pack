@@ -21,6 +21,18 @@ file = "config/paxi/datapacks/industrial_fantasy_xaero_fair_autorun.zip"
 hash = "4e92bfe2b8593be03892b6a0903dd904c706c9c30a6fda690acd43ba60d0cf90"
 
 [[files]]
+file = "exports/mods-list.csv"
+hash = "a54ecea20e6d10ff64e7df0b583262109232b2aedd5c317662fdb9142ba9aa0e"
+
+[[files]]
+file = "exports/mods-list.json"
+hash = "3bf4f44d1717dfc77543dacc1767b6ae35fa49c2ff5e9af31b0e70dffc5cb4dd"
+
+[[files]]
+file = "exports/mods-list.md"
+hash = "3c1a9c3193e54ddb7e264621d8ead7b1926b25589c538585d52487d208b01ad4"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
@@ -183,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/create-reautomated.pw.toml"
 hash = "01e55abc7c4140cfebc64c79c9a31f5a36b7e806b4b054400580240e419124ad"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "7c9a7c6b0ba555d29cdff0c2874dfee7d1cd7807f084fcf08b3820b382dc3cb8"
 metafile = true
 
 [[files]]
