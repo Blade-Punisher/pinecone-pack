@@ -32,79 +32,82 @@ index,name,filename,side,source,modrinth_project_id,modrinth_version_id,url
 31,"Create: Mobile Packages","create_mobile_packages-1.21.1-0.7.6.jar",both,modrinth,1vXRfEHZ,2rAbaFXC,https://modrinth.com/mod/create-mobile-packages
 32,"Create Propulsion: Simulated","createpropulsion-1.1.4.jar",both,modrinth,ApkoHNO9,hTnJ29I0,https://modrinth.com/mod/create-propulsion-simulated
 33,"Create ReAutomated","createreautomated-1.21.1-neoforge-0.2.0.jar",both,modrinth,97LKd1Lf,nSe63L2r,https://modrinth.com/mod/create-reautomated
-34,"Create: Structures Arise","create_structures_arise-176.49.48 NeoForge 1.21.1.jar",both,modrinth,9enMEvoc,ZFrDlvkl,https://modrinth.com/mod/create-structures-arise
-35,"Create: The Factory Must Grow","tfmg-1.2.0.jar",both,modrinth,USgVjXsk,uDi14nbt,https://modrinth.com/mod/create-tfmg
-36,"Create: Vibrant Vaults","create_vibrant_vaults-0.3.2.jar",both,modrinth,hddN8ksR,t17qYXjn,https://modrinth.com/mod/create-vibrant-vaults
-37,"Create","create-1.21.1-6.0.10.jar",both,modrinth,LNytGWDc,UjX6dr61,https://modrinth.com/mod/create
-38,"Create Crafts & Additions","createaddition-1.5.11.jar",both,modrinth,kU1G12Nn,3ptU8Nq9,https://modrinth.com/mod/createaddition
-39,"CreateBetterFps","createbetterfps-1.21.1-1.1.4.jar",client,modrinth,lMYIHZNH,QWqEdWHy,https://modrinth.com/mod/createbetterfps
-40,"CreativeCore","CreativeCore_NEOFORGE_v2.13.39_mc1.21.1.jar",both,modrinth,OsZiaDHq,vp5wWD4w,https://modrinth.com/mod/creativecore
-41,"Cristel Lib","cristellib-neoforge-1.21.1-3.1.5.jar",both,modrinth,cl223EMc,JbGjwnV6,https://modrinth.com/mod/cristel-lib
-42,"Curios API","curios-neoforge-9.5.1+1.21.1.jar",both,modrinth,vvuO3ImH,yohfFbgD,https://modrinth.com/mod/curios
-43,"Dynamic FPS","dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",client,modrinth,LQ3K71Q1,T238FZpQ,https://modrinth.com/mod/dynamic-fps
-44,"EMI","emi-1.1.24+1.21.1+neoforge.jar",both,modrinth,fRiHVvU7,5sIPA1To,https://modrinth.com/mod/emi
-45,"Entity Culling","entityculling-neoforge-1.10.2-mc1.21.1.jar",client,modrinth,NNAgCjsB,2tOn8XA2,https://modrinth.com/mod/entityculling
-46,"Epic Fight","epic-fight-21.17.2-mc1.21.1-neoforge.jar",both,modrinth,vu3NZ5Ma,NQynI1o8,https://modrinth.com/mod/epic-fight
-47,"Epic Knights: Addon","epic-knights-addon-2.5-1.21.1-neoforge.jar",both,modrinth,txMuoRai,ZLkRGFj6,https://modrinth.com/mod/epic-knights-addon
-48,"Epic Knights: Shields Armor and Weapons","epic-knights-1.21.1-neoforge-10.12.jar",both,modrinth,L6jvzao4,bdxNv9fy,https://modrinth.com/mod/epic-knights-shields-armor-and-weapons
-49,"Explorify","Explorify v1.6.5.mod.jar",both,modrinth,HSfsxuTo,CuBdAr31,https://modrinth.com/mod/explorify
-50,"Falling Leaves","Falling Leaves-1.0.jar",client,modrinth,ALTwwcC5,VbgSXj57,https://modrinth.com/mod/falling-leaves
-51,"Farmer's Delight","FarmersDelight-1.21.1-1.3.2.jar",both,modrinth,R2OftAxM,GbNuOZ4S,https://modrinth.com/mod/farmers-delight
-52,"FerriteCore","ferritecore-7.0.3-neoforge.jar",both,modrinth,uXXizFIs,x7kQWVju,https://modrinth.com/mod/ferrite-core
-53,"Forgematica","forgematica-0.4.1+mc1.21.1.jar",client,modrinth,dCKRaeBC,bNQ9lJbg,https://modrinth.com/mod/forgematica
-54,"Fzzy Config","fzzy_config-0.7.6+1.21+neoforge.jar",both,modrinth,hYykXjDp,MAPG6cXE,https://modrinth.com/mod/fzzy-config
-55,"Geckolib","geckolib-neoforge-1.21.1-4.8.4.jar",both,modrinth,8BmcQJ2H,gFmrC8Ru,https://modrinth.com/mod/geckolib
-56,"GuideME","guideme-21.1.16.jar",both,modrinth,Ck4E7v7R,bFr2FBaJ,https://modrinth.com/mod/guideme
-57,"Handcrafted","handcrafted-neoforge-1.21.1-4.0.3.jar",both,modrinth,pJmCFF0p,JfqnpP2Z,https://modrinth.com/mod/handcrafted
-58,"ImmediatelyFast","ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",client,modrinth,5ZwdcRci,PhxY0iHw,https://modrinth.com/mod/immediatelyfast
-59,"Inventory Profiles Next","InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",client,modrinth,O7RBXm3n,vjuNnHLv,https://modrinth.com/mod/inventory-profiles-next
-60,"Iris Shaders","iris-neoforge-1.8.12+mc1.21.1.jar",client,modrinth,YL57xq9U,t3ruzodq,https://modrinth.com/mod/iris
-61,"Iron Furnaces","ironfurnaces-neoforge-1.21.1-4.3.2.jar",both,modrinth,yPlaLxD1,WZ25JeYB,https://modrinth.com/mod/iron-furnaces
-62,"Jade 🔍","Jade-1.21.1-NeoForge-15.10.5.jar",both,modrinth,nvQzSEkH,yd8FKCmx,https://modrinth.com/mod/jade
-63,"Kotlin for Forge","kotlinforforge-5.11.0-all.jar",both,modrinth,ordsPcFz,NrSebcsG,https://modrinth.com/mod/kotlin-for-forge
-64,"Krypton Reno","krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",both,modrinth,JkxWVYwU,SUeOFygw,https://modrinth.com/mod/krypton-fnp
-65,"Ksyxis","Ksyxis-1.4.3.jar",server,modrinth,2ecVyZ49,kL32PN9Q,https://modrinth.com/mod/ksyxis
-66,"libIPN","libIPN-neoforge-1.21.1-6.6.3.jar",client,modrinth,onSQdWhM,BGe4KMlE,https://modrinth.com/mod/libipn
-67,"Lionfish-API","lionfishapi-2.8.jar",both,modrinth,FoVacERa,EuxMIyMd,https://modrinth.com/mod/lionfish-api
-68,"Lithium","lithium-neoforge-0.15.3+mc1.21.1.jar",both,modrinth,gvQqBUqZ,RXHf27Wv,https://modrinth.com/mod/lithium
-69,"Let Me Despawn","letmedespawn-1.21.x-neoforge-1.5.0.jar",server,modrinth,vE2FN5qn,fgcMDg9B,https://modrinth.com/mod/lmd
-70,"L_Ender's Cataclysm","L_Ender's Cataclysm 1.21.1-3.27.jar",both,modrinth,46KJle7n,RM2acghH,https://modrinth.com/mod/l_enders-cataclysm
-71,"MaFgLib","mafglib-0.4.3+mc1.21.1.jar",client,modrinth,SKI34J7B,CgDQ0u0Q,https://modrinth.com/mod/mafglib
-72,"ModernFix","modernfix-neoforge-5.27.11+mc1.21.1.jar",both,modrinth,nmDcB62a,nWk1yGgV,https://modrinth.com/mod/modernfix
-73,"Modonomicon","modonomicon-1.21.1-neoforge-1.120.1.jar",both,modrinth,692GClaE,Uw0AZJKz,https://modrinth.com/mod/modonomicon
-74,"Moonlight Lib","moonlight-neoforge-1.21.1-3.0.14.jar",both,modrinth,twkfQtEc,er7S98Q1,https://modrinth.com/mod/moonlight
-75,"More Culling","moreculling-neoforge-1.21.1-1.0.7.jar",client,modrinth,51shyZVL,BvOuEhk4,https://modrinth.com/mod/moreculling
-76,"Mouse Tweaks","MouseTweaks-neoforge-mc1.21-2.26.1.jar",client,modrinth,aC3cM3Vq,9I21YYxf,https://modrinth.com/mod/mouse-tweaks
-77,"Nature's Compass","NaturesCompass-1.21.1-3.4.0-neoforge.jar",both,modrinth,fPetb5Kh,nFniEtJV,https://modrinth.com/mod/natures-compass
-78,"New Weapons","new_weapons-1.0.8-neoforge-1.21.1.jar",both,modrinth,EFw4zpPM,XsUAZGlz,https://modrinth.com/mod/new-weapons
-79,"Nullscape","Nullscape_1.21.x_v1.2.14.jar",both,modrinth,LPjGiSO4,3fv8O3xX,https://modrinth.com/mod/nullscape
-80,"Occultism","occultism-1.21.1-neoforge-1.215.0.jar",both,modrinth,sbJh4AZw,8YVnfDm6,https://modrinth.com/mod/occultism
-81,"Patchouli","Patchouli-1.21.1-93-NEOFORGE.jar",both,modrinth,nU0bVIaL,BIogJv2D,https://modrinth.com/mod/patchouli
-82,"Paxi","Paxi-1.21.1-NeoForge-5.1.3.jar",both,modrinth,CU0PAyzb,CLZfFbCx,https://modrinth.com/mod/paxi
-83,"Petrolpark's Library","petrolpark-1.21.1-1.4.35.jar",both,modrinth,ik2WZkTZ,SZ95SIk8,https://modrinth.com/mod/petrolpark
-84,"Petrol's Parts","petrolsparts-1.21.1-1.2.10.jar",both,modrinth,AN0CZD9P,PFCZOOlN,https://modrinth.com/mod/petrols-parts
-85,"Polymorph","polymorph-neoforge-1.1.0+1.21.1.jar",both,modrinth,tagwiZkJ,VEburL70,https://modrinth.com/mod/polymorph
-86,"Resourceful Lib","resourcefullib-neoforge-1.21-3.0.12.jar",both,modrinth,G1hIVOrD,x99nCLTm,https://modrinth.com/mod/resourceful-lib
-87,"RetroRig: Pipes","retrorig_pipes-1.0.1.jar",both,modrinth,X7sDJU5f,dCOHonqJ,https://modrinth.com/mod/retrorig-pipes
-88,"RetroRig: Quarry","retrorig_quarry-1.3.3.jar",both,modrinth,7CAHw34C,hwVzI71W,https://modrinth.com/mod/retrorig-quarry
-89,"Ritchie's Projectile Library","ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",both,modrinth,B3pb093D,hZ6B2Z0x,https://modrinth.com/mod/rpl
-90,"Sable","sable-neoforge-1.21.1-1.2.2.jar",both,modrinth,T9PomCSv,3FMsUjO4,https://modrinth.com/mod/sable
-91,"Searchables","Searchables-neoforge-1.21.1-1.0.2.jar",client,modrinth,fuuu3xnx,iEE85X0w,https://modrinth.com/mod/searchables
-92,"ServerCore","servercore-neoforge-1.5.17+1.21.1.jar",server,modrinth,4WWQxlQP,zEViyXZ9,https://modrinth.com/mod/servercore
-93,"Shulker Box Tooltip","shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar",both,modrinth,2M01OLQq,IuqNIoAi,https://modrinth.com/mod/shulkerboxtooltip
-94,"Simply Swords","simplyswords-neoforge-1.63.0-1.21.1.jar",both,modrinth,bK3Ubu9p,eREhvVpQ,https://modrinth.com/mod/simply-swords
-95,"Simply Tooltips","SimplyTooltips-neoforge-0.1.3.jar",client,modrinth,6avVoBVB,Ic73EcJ6,https://modrinth.com/mod/simply-tooltips
-96,"SmartBrainLib","SmartBrainLib-neoforge-1.21.1-1.16.11.jar",both,modrinth,PuyPazRT,O5EpeqI3,https://modrinth.com/mod/smartbrainlib
-97,"Sodium","sodium-neoforge-0.6.13+mc1.21.1.jar",client,modrinth,AANobbMI,Pb3OXVqC,https://modrinth.com/mod/sodium
-98,"Sound Physics Remastered","sound-physics-remastered-neoforge-1.21.1-1.4.10.jar",both,modrinth,qyVF9oeo,cTTunNxQ,https://modrinth.com/mod/sound-physics-remastered
-99,"spark","spark-1.10.124-neoforge.jar",both,modrinth,l6YH9Als,v5qtqRQi,https://modrinth.com/mod/spark
-100,"Structory","Structory_26.1_v1.3.16.jar",both,modrinth,aKCwCJlY,Nvh2sSPX,https://modrinth.com/mod/structory
-101,"Supplementaries","supplementaries-neoforge-1.21.1-3.6.5.jar",both,modrinth,fFEIiSDQ,4XwZg5Dq,https://modrinth.com/mod/supplementaries
-102,"Terralith","Terralith_1.21.x_v2.5.8.jar",both,modrinth,8oi3bsk5,MuJMtPGQ,https://modrinth.com/mod/terralith
-103,"Towns and Towers","t_and_t-neoforge-fabric-1.13.9+1.21.1.jar",both,modrinth,DjLobEOy,5PS5OhIh,https://modrinth.com/mod/towns-and-towers
-104,"Traveler's Backpack","travelersbackpack-neoforge-1.21.1-10.1.36.jar",both,modrinth,rlloIFEV,dkNVC1cq,https://modrinth.com/mod/travelersbackpack
-105,"Waystones","waystones-neoforge-1.21.1-21.1.33.jar",both,modrinth,LOpKHB2A,PXntW965,https://modrinth.com/mod/waystones
-106,"Xaero's Map Server Utils","xaeros-map-server-utils-1.1.0.jar",both,modrinth,YJgkgKMm,E7slFfkn,https://modrinth.com/mod/xaeros-map-server-utils
-107,"Xaero's Minimap","xaerominimap-neoforge-1.21.1-25.3.13.jar",both,modrinth,1bokaNcj,CklXEjmp,https://modrinth.com/mod/xaeros-minimap
-108,"Xaero's World Map","xaeroworldmap-neoforge-1.21.1-1.40.16.jar",both,modrinth,NcUtCpym,XwL25au3,https://modrinth.com/mod/xaeros-world-map
-109,"YUNG's API","YungsApi-1.21.1-NeoForge-5.1.6.jar",both,modrinth,Ua7DFN59,ZB22DE9q,https://modrinth.com/mod/yungs-api
+34,"Steam 'n' Rails Neoforge","railways-0.2.0+neoforge-mc1.21.1.jar",both,modrinth,L3Jv0QZI,oQKsMKfj,https://modrinth.com/mod/create-steam-n-rails-1.21.1
+35,"Create: Structures Arise","create_structures_arise-176.49.48 NeoForge 1.21.1.jar",both,modrinth,9enMEvoc,ZFrDlvkl,https://modrinth.com/mod/create-structures-arise
+36,"Create: The Factory Must Grow","tfmg-1.2.0.jar",both,modrinth,USgVjXsk,uDi14nbt,https://modrinth.com/mod/create-tfmg
+37,"Create: Vibrant Vaults","create_vibrant_vaults-0.3.2.jar",both,modrinth,hddN8ksR,t17qYXjn,https://modrinth.com/mod/create-vibrant-vaults
+38,"Create","create-1.21.1-6.0.10.jar",both,modrinth,LNytGWDc,UjX6dr61,https://modrinth.com/mod/create
+39,"Create Crafts & Additions","createaddition-1.5.11.jar",both,modrinth,kU1G12Nn,3ptU8Nq9,https://modrinth.com/mod/createaddition
+40,"CreateBetterFps","createbetterfps-1.21.1-1.1.4.jar",client,modrinth,lMYIHZNH,QWqEdWHy,https://modrinth.com/mod/createbetterfps
+41,"CreativeCore","CreativeCore_NEOFORGE_v2.13.39_mc1.21.1.jar",both,modrinth,OsZiaDHq,vp5wWD4w,https://modrinth.com/mod/creativecore
+42,"Cristel Lib","cristellib-neoforge-1.21.1-3.1.5.jar",both,modrinth,cl223EMc,JbGjwnV6,https://modrinth.com/mod/cristel-lib
+43,"Curios API","curios-neoforge-9.5.1+1.21.1.jar",both,modrinth,vvuO3ImH,yohfFbgD,https://modrinth.com/mod/curios
+44,"Dynamic FPS","dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",client,modrinth,LQ3K71Q1,T238FZpQ,https://modrinth.com/mod/dynamic-fps
+45,"EMI","emi-1.1.24+1.21.1+neoforge.jar",both,modrinth,fRiHVvU7,5sIPA1To,https://modrinth.com/mod/emi
+46,"Entity Culling","entityculling-neoforge-1.10.2-mc1.21.1.jar",client,modrinth,NNAgCjsB,2tOn8XA2,https://modrinth.com/mod/entityculling
+47,"Epic Fight","epic-fight-21.17.2-mc1.21.1-neoforge.jar",both,modrinth,vu3NZ5Ma,NQynI1o8,https://modrinth.com/mod/epic-fight
+48,"Epic Knights: Addon","epic-knights-addon-2.5-1.21.1-neoforge.jar",both,modrinth,txMuoRai,ZLkRGFj6,https://modrinth.com/mod/epic-knights-addon
+49,"Epic Knights: Shields Armor and Weapons","epic-knights-1.21.1-neoforge-10.12.jar",both,modrinth,L6jvzao4,bdxNv9fy,https://modrinth.com/mod/epic-knights-shields-armor-and-weapons
+50,"Explorify","Explorify v1.6.5.mod.jar",both,modrinth,HSfsxuTo,CuBdAr31,https://modrinth.com/mod/explorify
+51,"Falling Leaves","Falling Leaves-1.0.jar",client,modrinth,ALTwwcC5,VbgSXj57,https://modrinth.com/mod/falling-leaves
+52,"Farmer's Delight","FarmersDelight-1.21.1-1.3.2.jar",both,modrinth,R2OftAxM,GbNuOZ4S,https://modrinth.com/mod/farmers-delight
+53,"FerriteCore","ferritecore-7.0.3-neoforge.jar",both,modrinth,uXXizFIs,x7kQWVju,https://modrinth.com/mod/ferrite-core
+54,"Forgematica","forgematica-0.4.1+mc1.21.1.jar",client,modrinth,dCKRaeBC,bNQ9lJbg,https://modrinth.com/mod/forgematica
+55,"Fzzy Config","fzzy_config-0.7.6+1.21+neoforge.jar",both,modrinth,hYykXjDp,MAPG6cXE,https://modrinth.com/mod/fzzy-config
+56,"Geckolib","geckolib-neoforge-1.21.1-4.8.4.jar",both,modrinth,8BmcQJ2H,gFmrC8Ru,https://modrinth.com/mod/geckolib
+57,"GuideME","guideme-21.1.16.jar",both,modrinth,Ck4E7v7R,bFr2FBaJ,https://modrinth.com/mod/guideme
+58,"Handcrafted","handcrafted-neoforge-1.21.1-4.0.3.jar",both,modrinth,pJmCFF0p,JfqnpP2Z,https://modrinth.com/mod/handcrafted
+59,"ImmediatelyFast","ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",client,modrinth,5ZwdcRci,PhxY0iHw,https://modrinth.com/mod/immediatelyfast
+60,"Inventory Profiles Next","InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",client,modrinth,O7RBXm3n,vjuNnHLv,https://modrinth.com/mod/inventory-profiles-next
+61,"Iris Shaders","iris-neoforge-1.8.12+mc1.21.1.jar",client,modrinth,YL57xq9U,t3ruzodq,https://modrinth.com/mod/iris
+62,"Iron Furnaces","ironfurnaces-neoforge-1.21.1-4.3.2.jar",both,modrinth,yPlaLxD1,WZ25JeYB,https://modrinth.com/mod/iron-furnaces
+63,"Jade 🔍","Jade-1.21.1-NeoForge-15.10.5.jar",both,modrinth,nvQzSEkH,yd8FKCmx,https://modrinth.com/mod/jade
+64,"Kotlin for Forge","kotlinforforge-5.11.0-all.jar",both,modrinth,ordsPcFz,NrSebcsG,https://modrinth.com/mod/kotlin-for-forge
+65,"Krypton Reno","krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",both,modrinth,JkxWVYwU,SUeOFygw,https://modrinth.com/mod/krypton-fnp
+66,"Ksyxis","Ksyxis-1.4.3.jar",server,modrinth,2ecVyZ49,kL32PN9Q,https://modrinth.com/mod/ksyxis
+67,"libIPN","libIPN-neoforge-1.21.1-6.6.3.jar",client,modrinth,onSQdWhM,BGe4KMlE,https://modrinth.com/mod/libipn
+68,"Lionfish-API","lionfishapi-2.8.jar",both,modrinth,FoVacERa,EuxMIyMd,https://modrinth.com/mod/lionfish-api
+69,"Lithium","lithium-neoforge-0.15.3+mc1.21.1.jar",both,modrinth,gvQqBUqZ,RXHf27Wv,https://modrinth.com/mod/lithium
+70,"Let Me Despawn","letmedespawn-1.21.x-neoforge-1.5.0.jar",server,modrinth,vE2FN5qn,fgcMDg9B,https://modrinth.com/mod/lmd
+71,"L_Ender's Cataclysm","L_Ender's Cataclysm 1.21.1-3.27.jar",both,modrinth,46KJle7n,RM2acghH,https://modrinth.com/mod/l_enders-cataclysm
+72,"MaFgLib","mafglib-0.4.3+mc1.21.1.jar",client,modrinth,SKI34J7B,CgDQ0u0Q,https://modrinth.com/mod/mafglib
+73,"ModernFix","modernfix-neoforge-5.27.11+mc1.21.1.jar",both,modrinth,nmDcB62a,nWk1yGgV,https://modrinth.com/mod/modernfix
+74,"Modonomicon","modonomicon-1.21.1-neoforge-1.120.1.jar",both,modrinth,692GClaE,Uw0AZJKz,https://modrinth.com/mod/modonomicon
+75,"Moonlight Lib","moonlight-neoforge-1.21.1-3.0.14.jar",both,modrinth,twkfQtEc,er7S98Q1,https://modrinth.com/mod/moonlight
+76,"More Culling","moreculling-neoforge-1.21.1-1.0.7.jar",client,modrinth,51shyZVL,BvOuEhk4,https://modrinth.com/mod/moreculling
+77,"Mouse Tweaks","MouseTweaks-neoforge-mc1.21-2.26.1.jar",client,modrinth,aC3cM3Vq,9I21YYxf,https://modrinth.com/mod/mouse-tweaks
+78,"Nature's Compass","NaturesCompass-1.21.1-3.4.0-neoforge.jar",both,modrinth,fPetb5Kh,nFniEtJV,https://modrinth.com/mod/natures-compass
+79,"New Weapons","new_weapons-1.0.8-neoforge-1.21.1.jar",both,modrinth,EFw4zpPM,XsUAZGlz,https://modrinth.com/mod/new-weapons
+80,"Nullscape","Nullscape_1.21.x_v1.2.14.jar",both,modrinth,LPjGiSO4,3fv8O3xX,https://modrinth.com/mod/nullscape
+81,"Occultism","occultism-1.21.1-neoforge-1.215.0.jar",both,modrinth,sbJh4AZw,8YVnfDm6,https://modrinth.com/mod/occultism
+82,"Patchouli","Patchouli-1.21.1-93-NEOFORGE.jar",both,modrinth,nU0bVIaL,BIogJv2D,https://modrinth.com/mod/patchouli
+83,"Paxi","Paxi-1.21.1-NeoForge-5.1.3.jar",both,modrinth,CU0PAyzb,CLZfFbCx,https://modrinth.com/mod/paxi
+84,"Petrolpark's Library","petrolpark-1.21.1-1.4.35.jar",both,modrinth,ik2WZkTZ,SZ95SIk8,https://modrinth.com/mod/petrolpark
+85,"Petrol's Parts","petrolsparts-1.21.1-1.2.10.jar",both,modrinth,AN0CZD9P,PFCZOOlN,https://modrinth.com/mod/petrols-parts
+86,"Polymorph","polymorph-neoforge-1.1.0+1.21.1.jar",both,modrinth,tagwiZkJ,VEburL70,https://modrinth.com/mod/polymorph
+87,"Resourceful Lib","resourcefullib-neoforge-1.21-3.0.12.jar",both,modrinth,G1hIVOrD,x99nCLTm,https://modrinth.com/mod/resourceful-lib
+88,"RetroRig: Pipes","retrorig_pipes-1.0.1.jar",both,modrinth,X7sDJU5f,dCOHonqJ,https://modrinth.com/mod/retrorig-pipes
+89,"RetroRig: Quarry","retrorig_quarry-1.3.3.jar",both,modrinth,7CAHw34C,hwVzI71W,https://modrinth.com/mod/retrorig-quarry
+90,"Ritchie's Projectile Library","ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",both,modrinth,B3pb093D,hZ6B2Z0x,https://modrinth.com/mod/rpl
+91,"Sable","sable-neoforge-1.21.1-1.2.2.jar",both,modrinth,T9PomCSv,3FMsUjO4,https://modrinth.com/mod/sable
+92,"Searchables","Searchables-neoforge-1.21.1-1.0.2.jar",client,modrinth,fuuu3xnx,iEE85X0w,https://modrinth.com/mod/searchables
+93,"ServerCore","servercore-neoforge-1.5.17+1.21.1.jar",server,modrinth,4WWQxlQP,zEViyXZ9,https://modrinth.com/mod/servercore
+94,"Shulker Box Tooltip","shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar",both,modrinth,2M01OLQq,IuqNIoAi,https://modrinth.com/mod/shulkerboxtooltip
+95,"Simple Voice Chat","voicechat-neoforge-1.21.1-2.6.18.jar",both,modrinth,9eGKb6K1,eFhbQnrh,https://modrinth.com/mod/simple-voice-chat
+96,"Simply Swords","simplyswords-neoforge-1.63.0-1.21.1.jar",both,modrinth,bK3Ubu9p,eREhvVpQ,https://modrinth.com/mod/simply-swords
+97,"Simply Tooltips","SimplyTooltips-neoforge-0.1.3.jar",client,modrinth,6avVoBVB,Ic73EcJ6,https://modrinth.com/mod/simply-tooltips
+98,"SmartBrainLib","SmartBrainLib-neoforge-1.21.1-1.16.11.jar",both,modrinth,PuyPazRT,O5EpeqI3,https://modrinth.com/mod/smartbrainlib
+99,"Sodium","sodium-neoforge-0.6.13+mc1.21.1.jar",client,modrinth,AANobbMI,Pb3OXVqC,https://modrinth.com/mod/sodium
+100,"Sound Physics Remastered","sound-physics-remastered-neoforge-1.21.1-1.4.10.jar",both,modrinth,qyVF9oeo,cTTunNxQ,https://modrinth.com/mod/sound-physics-remastered
+101,"spark","spark-1.10.124-neoforge.jar",both,modrinth,l6YH9Als,v5qtqRQi,https://modrinth.com/mod/spark
+102,"Structory","Structory_26.1_v1.3.16.jar",both,modrinth,aKCwCJlY,Nvh2sSPX,https://modrinth.com/mod/structory
+103,"Supplementaries","supplementaries-neoforge-1.21.1-3.6.5.jar",both,modrinth,fFEIiSDQ,4XwZg5Dq,https://modrinth.com/mod/supplementaries
+104,"Terralith","Terralith_1.21.x_v2.5.8.jar",both,modrinth,8oi3bsk5,MuJMtPGQ,https://modrinth.com/mod/terralith
+105,"Towns and Towers","t_and_t-neoforge-fabric-1.13.9+1.21.1.jar",both,modrinth,DjLobEOy,5PS5OhIh,https://modrinth.com/mod/towns-and-towers
+106,"Traveler's Backpack","travelersbackpack-neoforge-1.21.1-10.1.36.jar",both,modrinth,rlloIFEV,dkNVC1cq,https://modrinth.com/mod/travelersbackpack
+107,"Waystones","waystones-neoforge-1.21.1-21.1.33.jar",both,modrinth,LOpKHB2A,PXntW965,https://modrinth.com/mod/waystones
+108,"Xaero's Map Server Utils","xaeros-map-server-utils-1.1.0.jar",both,modrinth,YJgkgKMm,E7slFfkn,https://modrinth.com/mod/xaeros-map-server-utils
+109,"Xaero's Minimap","xaerominimap-neoforge-1.21.1-25.3.13.jar",both,modrinth,1bokaNcj,CklXEjmp,https://modrinth.com/mod/xaeros-minimap
+110,"Xaero's World Map","xaeroworldmap-neoforge-1.21.1-1.40.16.jar",both,modrinth,NcUtCpym,XwL25au3,https://modrinth.com/mod/xaeros-world-map
+111,"YUNG's API","YungsApi-1.21.1-NeoForge-5.1.6.jar",both,modrinth,Ua7DFN59,ZB22DE9q,https://modrinth.com/mod/yungs-api
+112,"YUNG's Cave Biomes","YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",both,modrinth,cs7iGVq1,HYGqXWqQ,https://modrinth.com/mod/yungs-cave-biomes

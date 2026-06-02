@@ -8,7 +8,7 @@
     "path": "C:\\Users\\Steam Deck\\Desktop\\PineconePack",
     "githubRepo": "https://github.com/Blade-Punisher/pinecone-pack.git"
   },
-  "generatedAt": "2026-06-02T12:34:28.435Z",
+  "generatedAt": "2026-06-02T16:18:39.591Z",
   "mods": [
     {
       "name": "Applied Energistics 2",
@@ -623,6 +623,25 @@
       "categories": [
         "technology",
         "worldgen"
+      ]
+    },
+    {
+      "name": "Steam 'n' Rails Neoforge",
+      "filename": "railways-0.2.0+neoforge-mc1.21.1.jar",
+      "side": "both",
+      "downloadUrl": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/oQKsMKfj/railways-0.2.0%2Bneoforge-mc1.21.1.jar",
+      "hashFormat": "sha512",
+      "hash": "e91c7db3fabf9d891981e9af545b39acd74eb8c824338bd58bb677cfbf7fa296a1d5ba5275b84cb025512eaf46e4c85b6fc3f46772c3bbbf4793989c1f4fafd8",
+      "modrinthId": "L3Jv0QZI",
+      "modrinthVersion": "oQKsMKfj",
+      "source": "modrinth",
+      "iconUrl": "https://cdn.modrinth.com/data/L3Jv0QZI/179182a054901029eecf4ec5b15d414ed5bfddc6_96.webp",
+      "title": "Steam 'n' Rails Neoforge",
+      "description": "An unofficial port of Create: Steam 'n' Rails to 1.21.1.",
+      "projectUrl": "https://modrinth.com/mod/create-steam-n-rails-1.21.1",
+      "categories": [
+        "technology",
+        "transportation"
       ]
     },
     {
@@ -1758,6 +1777,26 @@
       ]
     },
     {
+      "name": "Simple Voice Chat",
+      "filename": "voicechat-neoforge-1.21.1-2.6.18.jar",
+      "side": "both",
+      "downloadUrl": "https://cdn.modrinth.com/data/9eGKb6K1/versions/eFhbQnrh/voicechat-neoforge-1.21.1-2.6.18.jar",
+      "hashFormat": "sha512",
+      "hash": "9990a758a9c1044af1dce3b96feaf7eeab91a8180fbf9e77388c1ee9983c2c0919710d87b917eb815457d926f00e68557c6a85eb8193d895ac8fe78fd7abb4c1",
+      "modrinthId": "9eGKb6K1",
+      "modrinthVersion": "eFhbQnrh",
+      "source": "modrinth",
+      "iconUrl": "https://cdn.modrinth.com/data/9eGKb6K1/icon.png",
+      "title": "Simple Voice Chat",
+      "description": "A working voice chat in Minecraft!",
+      "projectUrl": "https://modrinth.com/mod/simple-voice-chat",
+      "categories": [
+        "adventure",
+        "social",
+        "utility"
+      ]
+    },
+    {
       "name": "Simply Swords",
       "filename": "simplyswords-neoforge-1.63.0-1.21.1.jar",
       "side": "both",
@@ -2062,6 +2101,26 @@
       "projectUrl": "https://modrinth.com/mod/yungs-api",
       "categories": [
         "library",
+        "worldgen"
+      ]
+    },
+    {
+      "name": "YUNG's Cave Biomes",
+      "filename": "YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "side": "both",
+      "downloadUrl": "https://cdn.modrinth.com/data/cs7iGVq1/versions/HYGqXWqQ/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "hashFormat": "sha512",
+      "hash": "9e88b5109e06c791f27c23df16ebd2c535b5b27cf9b748ee6a439dccf3e560d32110b81ace5ea7dcca2992394b439223c20e4f2688e80e263efa103e2b154024",
+      "modrinthId": "cs7iGVq1",
+      "modrinthVersion": "HYGqXWqQ",
+      "source": "modrinth",
+      "iconUrl": "https://cdn.modrinth.com/data/cs7iGVq1/e5ce74259dece306f7d25c55c59d6afcc3d473ea_96.webp",
+      "title": "YUNG's Cave Biomes",
+      "description": "Adds new vanilla+ cave biomes and underground content!",
+      "projectUrl": "https://modrinth.com/mod/yungs-cave-biomes",
+      "categories": [
+        "adventure",
+        "mobs",
         "worldgen"
       ]
     }
