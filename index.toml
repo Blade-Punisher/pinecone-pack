@@ -96,6 +96,11 @@ hash = "f044b14b6926ee5d949c52e80bb89cd0bcb827e5f3573b0001d79912ee340ae0"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "17cf45aaab6d4964d4d851cfcbe4b5e6db539a2329216392bec4aea1c90b83a7"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
 metafile = true
@@ -523,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "5448a534c0b567b081df51062e74a87d3eba07587b911f4e2da40e370bbb9a66"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.pw.toml"
+hash = "792770e773b1c15870ac7b80b42d3c8f4483d70f0e5594c9af35977a0b1f01c6"
 metafile = true
 
 [[files]]
