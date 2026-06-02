@@ -91,6 +91,11 @@ hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
+file = "mods/burnt-basic.pw.toml"
+hash = "f044b14b6926ee5d949c52e80bb89cd0bcb827e5f3573b0001d79912ee340ae0"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
 metafile = true
