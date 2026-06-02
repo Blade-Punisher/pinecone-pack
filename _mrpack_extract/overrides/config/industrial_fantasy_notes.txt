@@ -1,8 +1,0 @@
-This pack is tuned for a client playthrough with 8-12 GB RAM. FIXED10 adds a conservative native NeoForge performance booster set.
-Avoid very large moving contraptions, excessive Create pipes, and mob farms in chunkloaded areas.
-Default performance profile uses render distance 8, simulation distance 6, entity distance 75%, low biome blend and disabled entity shadows.
-If shaders are heavy, keep Photon/Complementary on low/medium presets or disable shaders while generating new terrain.
-FIXED9 uses the maintained Xaero Minimap + Xaero World Map stack instead of JourneyMap.
-Fairness is enforced by Xaero's Map Server Utils through Paxi: entity radar and cave maps are disabled, but waypoints/markers remain available.
-Keys: B = create waypoint, U = waypoint list, M = full-screen world map, Y = Xaero minimap settings.
-Russian localization resource packs are installed and enabled when resolved; unsupported book pages fall back to the mod's original language.

@@ -1,0 +1,16 @@
+.git/**
+.gitignore
+.gitattributes
+.packwizignore
+
+*.mrpack
+_mrpack_extract/**
+test_extract/**
+
+import-mrpack-mods.ps1
+add-modrinth-mods.ps1
+manual-files.txt
+
+packwiz-installer.jar
+packwiz-installer-bootstrap.jar
+packwiz.json

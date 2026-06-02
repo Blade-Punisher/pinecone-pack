@@ -9,42 +9,6 @@ file = "README_JVM_ARGS.txt"
 hash = "b4b499c48b5d382f467eb740a17d756a57e0b53964454a99f692219657dfd240"
 
 [[files]]
-file = "_mrpack_extract/modrinth.index.json"
-hash = "1c91d0dfa0be5dc8fffb28f10600b462e9e7a65bdcc54ff4a6de3e4ac90ad7b7"
-
-[[files]]
-file = "_mrpack_extract/overrides/README_CHUNKY_PREGEN.txt"
-hash = "c7dd990d05aa1db51dbf470e585bb7394e24221ceb2b051ba9b2a7bd6660d217"
-
-[[files]]
-file = "_mrpack_extract/overrides/README_JVM_ARGS.txt"
-hash = "b4b499c48b5d382f467eb740a17d756a57e0b53964454a99f692219657dfd240"
-
-[[files]]
-file = "_mrpack_extract/overrides/config/create-server.toml"
-hash = "00e69a4be3b02c17014d714ea6e9af7b4ec9afa26affd78101507db9b92bc0a6"
-
-[[files]]
-file = "_mrpack_extract/overrides/config/industrial_fantasy_notes.txt"
-hash = "e8321f6b86c91ba4d42ca01e30ea84e5c2cf6c4242fd3f123f97ca25d00e62b8"
-
-[[files]]
-file = "_mrpack_extract/overrides/config/paxi/datapacks/industrial_fantasy_xaero_fair_autorun.zip"
-hash = "4e92bfe2b8593be03892b6a0903dd904c706c9c30a6fda690acd43ba60d0cf90"
-
-[[files]]
-file = "_mrpack_extract/overrides/options.txt"
-hash = "37c5306bcde32692ad62d08de54f4a79594da8fcc56acbf2f952d5a0d755cc3d"
-
-[[files]]
-file = "_mrpack_extract/pack.zip"
-hash = "d83ed2f001bdee6e8fd778a450bf817a0d556191434868d9e60d5ef1a3dc0185"
-
-[[files]]
-file = "add-modrinth-mods.ps1"
-hash = "b09c015075c07a55aa77f5f29be47f0d03f5a8f6e610a441e3b412e817d0386a"
-
-[[files]]
 file = "config/create-server.toml"
 hash = "00e69a4be3b02c17014d714ea6e9af7b4ec9afa26affd78101507db9b92bc0a6"
 
@@ -55,10 +19,6 @@ hash = "e8321f6b86c91ba4d42ca01e30ea84e5c2cf6c4242fd3f123f97ca25d00e62b8"
 [[files]]
 file = "config/paxi/datapacks/industrial_fantasy_xaero_fair_autorun.zip"
 hash = "4e92bfe2b8593be03892b6a0903dd904c706c9c30a6fda690acd43ba60d0cf90"
-
-[[files]]
-file = "import-mrpack-mods.ps1"
-hash = "81012a4864790953790569423a5063130db618254380c502270d537363d4e592"
 
 [[files]]
 file = "mods/ae2.pw.toml"
