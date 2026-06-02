@@ -1,0 +1,13 @@
+name = "Epic Knights: Addon"
+filename = "epic-knights-addon-2.5-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/txMuoRai/versions/ZLkRGFj6/epic-knights-addon-2.5-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "3c453847708704b4bb98b21f20325c910ef5974c36bfdeae03001d15ac13698f1cc44fa6bc001c04b947e0381f07ad74ff49f973b6293401e93d8d9f90058100"
+
+[update]
+[update.modrinth]
+mod-id = "txMuoRai"
+version = "ZLkRGFj6"

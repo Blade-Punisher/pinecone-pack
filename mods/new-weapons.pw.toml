@@ -1,0 +1,13 @@
+name = "New Weapons"
+filename = "new_weapons-1.0.8-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EFw4zpPM/versions/XsUAZGlz/new_weapons-1.0.8-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "3287778c81b7943d44bde68fcbf0642e9412a437f5cd9bf88381ebde3f30bfd87b28f92be6835388e05fb4509dc448374bec72a2e4a2b5a45bc6b3613252e4c1"
+
+[update]
+[update.modrinth]
+mod-id = "EFw4zpPM"
+version = "XsUAZGlz"

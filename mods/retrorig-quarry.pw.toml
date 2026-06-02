@@ -1,0 +1,13 @@
+name = "RetroRig: Quarry"
+filename = "retrorig_quarry-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7CAHw34C/versions/hwVzI71W/retrorig_quarry-1.3.3.jar"
+hash-format = "sha512"
+hash = "a70fa55cd7f12db9bfb6b656bb739756a2b6810cf09cf87131cee0b8e65f586cf6688f932fb2fa0199f9aa3fd6f72eb46a4e24a86cabb259318c90d0b58441bf"
+
+[update]
+[update.modrinth]
+mod-id = "7CAHw34C"
+version = "hwVzI71W"

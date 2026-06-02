@@ -1,0 +1,13 @@
+name = "Create ReAutomated"
+filename = "createreautomated-1.21.1-neoforge-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/97LKd1Lf/versions/nSe63L2r/createreautomated-1.21.1-neoforge-0.2.0.jar"
+hash-format = "sha512"
+hash = "d9498d6e08062759e2e91534d0d68537bd9193b062f2563ad3c28a3bbaf1fd4be3d2e27b767127a1f7c267622d8f606d0ffb925541cf3ee6eb55dfe73e45969b"
+
+[update]
+[update.modrinth]
+mod-id = "97LKd1Lf"
+version = "nSe63L2r"

@@ -1,0 +1,13 @@
+name = "Epic Fight"
+filename = "epic-fight-21.17.2-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/NQynI1o8/epic-fight-21.17.2-mc1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "7f6dd638f1b3abf8005d416c61c7738f05be3154b5c0d7cbadc162cf0afa240e9f54bfdf660522c795383850590f110bd3e381b5dedeada3ee98d4e2deee90f5"
+
+[update]
+[update.modrinth]
+mod-id = "vu3NZ5Ma"
+version = "NQynI1o8"
