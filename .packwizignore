@@ -1,6 +1,8 @@
 *.mrpack
 _mrpack_extract/**
 test_extract/**
+server-build/**
+exports/**
 
 import-mrpack-mods.ps1
 add-modrinth-mods.ps1
@@ -11,6 +13,10 @@ packwiz-installer-bootstrap.jar
 packwiz.json
 
 options.txt
+
+mods-list.md
+mods-list.csv
+mods-list.json
 
 .packwizignore
 .gitattributes
