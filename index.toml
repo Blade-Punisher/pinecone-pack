@@ -478,6 +478,11 @@ hash = "809143c1dc3535485a4faf858d4a10d06e0e8f3939cd78c51e9f83b11b98e704"
 metafile = true
 
 [[files]]
+file = "mods/room-for-two.pw.toml"
+hash = "29a774eb6c532c065364460c0a4fdfc1ae88781d78bc17d782ac5a5450b5a57e"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
@@ -599,4 +604,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "37c5306bcde32692ad62d08de54f4a79594da8fcc56acbf2f952d5a0d755cc3d"
+hash = "4971458abbe0fcd7375bcae04e635cfa6a5d8e2d1cee90865bba404fc4f66305"

@@ -1,5 +1,5 @@
-graphicsMode:1
-renderDistance:8
+graphicsMode:0
+renderDistance:20
 simulationDistance:6
 maxFps:120
 particles:1

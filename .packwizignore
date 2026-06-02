@@ -14,3 +14,5 @@ manual-files.txt
 packwiz-installer.jar
 packwiz-installer-bootstrap.jar
 packwiz.json
+.pinecone-deploy.json
+server-build/
