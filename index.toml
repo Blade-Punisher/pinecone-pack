@@ -486,6 +486,11 @@ hash = "809143c1dc3535485a4faf858d4a10d06e0e8f3939cd78c51e9f83b11b98e704"
 metafile = true
 
 [[files]]
+file = "mods/roadweaver.pw.toml"
+hash = "4a729e87f0d60deaf6670ce830b358849c92e9b2d7a12f55d8c07282a26b916b"
+metafile = true
+
+[[files]]
 file = "mods/room-for-two.pw.toml"
 hash = "29a774eb6c532c065364460c0a4fdfc1ae88781d78bc17d782ac5a5450b5a57e"
 metafile = true
