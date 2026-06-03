@@ -521,11 +521,6 @@ hash = "a4af1bf7389eddd65fb5b665b711e0b25e9e8ccb6b17a1fb50aff8d886859ad6"
 metafile = true
 
 [[files]]
-file = "mods/simply-desire-paths.pw.toml"
-hash = "43e9a2d50b473913d10c16e14f273d266ff76309b89afc86151f3c26cc147391"
-metafile = true
-
-[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "1d37ac39109aa15d03a3a7ddf6402d63f72277acafca53f61830046acfe6edb0"
 metafile = true
