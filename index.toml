@@ -441,6 +441,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/mushroom-quest.pw.toml"
+hash = "d5876f4302128e902adc1ff68836fa98f5eda7c22138ef46ccc0fd0dcc0593ed"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true
@@ -523,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/serene-shrubbery.pw.toml"
+hash = "6215a724409895ab441601ae1237503370d0cb14edbd366f124158b785018ef1"
 metafile = true
 
 [[files]]
