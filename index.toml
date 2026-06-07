@@ -501,11 +501,6 @@ hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true
 
 [[files]]
-file = "mods/new-weapons.pw.toml"
-hash = "9aad70226b96f39eba2f6d1af90b6d0c55dcfe2d9dac1404a67c3abe501bd253"
-metafile = true
-
-[[files]]
 file = "mods/occultism.pw.toml"
 hash = "669ff73fc0b07ae941adfd1a8eae3597e493c48cea222195c99d3b7a7dc7096b"
 metafile = true
