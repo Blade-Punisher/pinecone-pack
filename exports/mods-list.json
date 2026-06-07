@@ -8,7 +8,7 @@
     "path": "C:\\Users\\Steam Deck\\Desktop\\PineconePack",
     "githubRepo": "https://github.com/Blade-Punisher/pinecone-pack.git"
   },
-  "generatedAt": "2026-06-02T16:18:39.591Z",
+  "generatedAt": "2026-06-07T15:52:41.678Z",
   "mods": [
     {
       "name": "Applied Energistics 2",
@@ -264,6 +264,44 @@
       "projectUrl": "https://modrinth.com/mod/better-advancements",
       "categories": [
         "utility"
+      ]
+    },
+    {
+      "name": "Burnt Basic",
+      "filename": "burnt_basic-1.10.3.6-neoforge-1.21.1.jar",
+      "side": "both",
+      "downloadUrl": "https://cdn.modrinth.com/data/aclfPzta/versions/yCFfVeJt/burnt_basic-1.10.3.6-neoforge-1.21.1.jar",
+      "hashFormat": "sha512",
+      "hash": "e10fabe54e2cf00931f2903ab1af79c0ebaf90d864611ce349aa9fadc0a631a378c27087e9629d5d6e6a86e1496188d1ea41bc4bf3d77fe836270efe64dd6799",
+      "modrinthId": "aclfPzta",
+      "modrinthVersion": "yCFfVeJt",
+      "source": "modrinth",
+      "iconUrl": "https://cdn.modrinth.com/data/aclfPzta/bd7c3e6402e0316dde341a147f20f0e94cc0d85a.png",
+      "title": "Burnt Basic",
+      "description": "The vanilla fire enhancing mod.",
+      "projectUrl": "https://modrinth.com/mod/burnt-basic",
+      "categories": [
+        "decoration",
+        "equipment",
+        "game-mechanics"
+      ]
+    },
+    {
+      "name": "Concurrent Chunk Management Engine (NeoForge)",
+      "filename": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.93.jar",
+      "side": "both",
+      "downloadUrl": "https://cdn.modrinth.com/data/COlSi5iR/versions/KmfiVd28/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.93.jar",
+      "hashFormat": "sha512",
+      "hash": "7dbb5cabc4669b900c570547fc636ce77b24e08451f4c699db76ec9ed3c805a256323862d7823e7d8c5acd10baa15e83c27dae3384ed5ea765f7e883a41f6045",
+      "modrinthId": "COlSi5iR",
+      "modrinthVersion": "KmfiVd28",
+      "source": "modrinth",
+      "iconUrl": "https://cdn.modrinth.com/data/COlSi5iR/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp",
+      "title": "Concurrent Chunk Management Engine (NeoForge)",
+      "description": "A mod designed to improve the chunk performance of Minecraft.",
+      "projectUrl": "https://modrinth.com/mod/c2me-neoforge",
+      "categories": [
+        "optimization"
       ]
     },
     {
@@ -853,6 +891,43 @@
       "categories": [
         "library",
         "utility"
+      ]
+    },
+    {
+      "name": "Emojiful",
+      "filename": "Emojiful-Neoforge-1.21-5.2.2-all.jar",
+      "side": "both",
+      "downloadUrl": "https://cdn.modrinth.com/data/72GXx2MO/versions/1YlEixSY/Emojiful-Neoforge-1.21-5.2.2-all.jar",
+      "hashFormat": "sha512",
+      "hash": "8a8bfd02ea0edf471951dc2a0f9f456f520555c688a2f2fd95a1833491fe280bc9379529c8c3223d680b8cf13824b7de5cbb7bab3575550dbe7169ba65b3378e",
+      "modrinthId": "72GXx2MO",
+      "modrinthVersion": "1YlEixSY",
+      "source": "modrinth",
+      "iconUrl": "https://cdn.modrinth.com/data/72GXx2MO/83075fde40e249a83cb73efda948d8a1209bd890_96.webp",
+      "title": "Emojiful",
+      "description": "Emojis in minecraft",
+      "projectUrl": "https://modrinth.com/mod/emojiful",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "name": "Emotecraft",
+      "filename": "emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+      "side": "both",
+      "downloadUrl": "https://cdn.modrinth.com/data/pZ2wrerK/versions/fu6N0NgM/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+      "hashFormat": "sha512",
+      "hash": "b9e59249f1fd2ad33c042561bdcebad74b3c1c82de86e4e11d0066e500c0c231ddf79487685367b47386370c8f7c763138ab5ba3f84d03e3b87667ecd2576dd1",
+      "modrinthId": "pZ2wrerK",
+      "modrinthVersion": "fu6N0NgM",
+      "source": "modrinth",
+      "iconUrl": "https://cdn.modrinth.com/data/pZ2wrerK/eed7e2c9851392e5879c7d7cb763f142f124e6d2_96.webp",
+      "title": "Emotecraft",
+      "description": "Create your own emotes in Minecraft.",
+      "projectUrl": "https://modrinth.com/mod/emotecraft",
+      "categories": [
+        "decoration",
+        "social"
       ]
     },
     {
@@ -1684,6 +1759,44 @@
       ]
     },
     {
+      "name": "RoadWeaver",
+      "filename": "roadweaver-neoforge-2.2.2-1.21.1.jar",
+      "side": "both",
+      "downloadUrl": "https://cdn.modrinth.com/data/6jk8Pote/versions/zi93RooF/roadweaver-neoforge-2.2.2-1.21.1.jar",
+      "hashFormat": "sha512",
+      "hash": "8611585dc923123499cb5edba0ad094da0777f5e45827fdf24dcbb699d34266eaa153823c89e565be253af1dfa9c43eb3a9115b268b4ebdde2a56d0602c3545d",
+      "modrinthId": "6jk8Pote",
+      "modrinthVersion": "zi93RooF",
+      "source": "modrinth",
+      "iconUrl": "https://cdn.modrinth.com/data/6jk8Pote/507596a6396e0bd487a4bec13f0a9e419f276ee9_96.webp",
+      "title": "RoadWeaver",
+      "description": "RoadWeaver is a Fabric mod designed for Minecraft Java Edition, which automatically weaves elegant road networks between in-game structures such as villages.",
+      "projectUrl": "https://modrinth.com/mod/roadweaver",
+      "categories": [
+        "adventure",
+        "decoration",
+        "worldgen"
+      ]
+    },
+    {
+      "name": "Room For Two",
+      "filename": "roomfortwo-neoforge-1.21.1-0.1.0.jar",
+      "side": "both",
+      "downloadUrl": "https://cdn.modrinth.com/data/YZlvzIFq/versions/QPSYG3LG/roomfortwo-neoforge-1.21.1-0.1.0.jar",
+      "hashFormat": "sha512",
+      "hash": "8889b3a175cae837148d25d4d3c29ef0eb61fbad83d67a789ffc972d563ad605e2fcc0feb48e94034b3378fc6ace136c453730e536c79ca12ae0d3b1718d88b0",
+      "modrinthId": "YZlvzIFq",
+      "modrinthVersion": "QPSYG3LG",
+      "source": "modrinth",
+      "iconUrl": "https://cdn.modrinth.com/data/YZlvzIFq/c34d5cac906429f46a40e6be57a11feb6a5499b7.png",
+      "title": "Room For Two",
+      "description": "Lets you share a bed with a villager or another player.",
+      "projectUrl": "https://modrinth.com/mod/room-for-two",
+      "categories": [
+        "social"
+      ]
+    },
+    {
       "name": "Ritchie's Projectile Library",
       "filename": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
       "side": "both",
@@ -1855,6 +1968,25 @@
       ]
     },
     {
+      "name": "Smooth Boot",
+      "filename": "SmoothBoot-NeoForge+1.21-1.0.0.jar",
+      "side": "both",
+      "downloadUrl": "https://cdn.modrinth.com/data/gk3B4zrk/versions/717SN7LP/SmoothBoot-NeoForge%2B1.21-1.0.0.jar",
+      "hashFormat": "sha512",
+      "hash": "59fc3f6994f4093053241dec924d3e70e44e2d628275b8036ea9c2b5f95bb40820eb8de8679841de86a6f7c5a4dea6d3278c267f914aa404d2d5e123ad2f9822",
+      "modrinthId": "gk3B4zrk",
+      "modrinthVersion": "717SN7LP",
+      "source": "modrinth",
+      "iconUrl": "https://cdn.modrinth.com/data/gk3B4zrk/ab672e6e713a9b88e086b1939117955ca7c904cb_96.webp",
+      "title": "Smooth Boot",
+      "description": "This mod enhances CPU scheduling in Minecraft. As an unofficial fork of the Smooth Boot (Reloaded) mod, it adds support for new game versions.",
+      "projectUrl": "https://modrinth.com/mod/smooth-boot",
+      "categories": [
+        "optimization",
+        "utility"
+      ]
+    },
+    {
       "name": "Sodium",
       "filename": "sodium-neoforge-0.6.13+mc1.21.1.jar",
       "side": "client",
@@ -1947,6 +2079,25 @@
         "decoration",
         "game-mechanics",
         "utility"
+      ]
+    },
+    {
+      "name": "TerraBlender",
+      "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "side": "both",
+      "downloadUrl": "https://cdn.modrinth.com/data/kkmrDlKT/versions/6e8GCrLb/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "hashFormat": "sha512",
+      "hash": "9d4b2a1be5139c0fb2fad92ed21805b17d9e83b6ea48e637e018bb14063c1823a206390755dbfe8d025c20fd62ac11cdd84db53ddb956dabaeda01bff57bac50",
+      "modrinthId": "kkmrDlKT",
+      "modrinthVersion": "6e8GCrLb",
+      "source": "modrinth",
+      "iconUrl": "https://cdn.modrinth.com/data/kkmrDlKT/ffe690c604b123c63ee77a5baf76cf008cb73663.png",
+      "title": "TerraBlender",
+      "description": "A library mod for adding biomes in a simple and compatible manner!",
+      "projectUrl": "https://modrinth.com/mod/terrablender",
+      "categories": [
+        "library",
+        "worldgen"
       ]
     },
     {
