@@ -1,2 +1,0 @@
--Xms128M
--XX:MaxRAMPercentage=95.0

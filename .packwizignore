@@ -5,6 +5,7 @@ server-build/**
 exports/**
 
 .pinecone-deploy.json
+*.local.json
 
 import-mrpack-mods.ps1
 add-modrinth-mods.ps1
@@ -19,6 +20,11 @@ options.txt
 mods-list.md
 mods-list.csv
 mods-list.json
+
+patches/**
+mmc-pack.json
+instance.cfg
+minecraftinstance.json
 
 .packwizignore
 .gitattributes
