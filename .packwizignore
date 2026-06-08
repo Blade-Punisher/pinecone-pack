@@ -4,6 +4,8 @@ test_extract/**
 server-build/**
 exports/**
 
+.pinecone-deploy.json
+
 import-mrpack-mods.ps1
 add-modrinth-mods.ps1
 manual-files.txt
