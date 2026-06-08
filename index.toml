@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".pinecone-deploy.json"
+hash = "567263132e28c455794268eb3b38c948aa3a62454c1a80740f40b9ceddc8f434"
+
+[[files]]
 file = "README_CHUNKY_PREGEN.txt"
 hash = "c7dd990d05aa1db51dbf470e585bb7394e24221ceb2b051ba9b2a7bd6660d217"
 
@@ -258,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "f52baae87b25fd13316a790da63e73c50bd5acf9a81db14585dec2a2cd9adb36"
 metafile = true
 
 [[files]]
