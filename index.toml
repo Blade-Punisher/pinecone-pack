@@ -386,6 +386,16 @@ hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
 
 [[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "f565820169e3cd71f18fd0b18eab2405bc400668813d04f3f3eb75b6c8924bcc"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
@@ -621,6 +631,16 @@ hash = "320d755339086e8fb35709328ad7b094ecbf7c500d61c08c535ec7d277fe1053"
 metafile = true
 
 [[files]]
+file = "mods/sit-datapack.pw.toml"
+hash = "b47b8eacd5ef44a3a98ce2c4a6a438dda5b31017beaa7a6b6d71378cf4ef01f8"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "aa55738b17b63bc2e0df7b9620d4a6b8c6f835d0a2cee14ee4cbcc3e4ed816e5"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "5448a534c0b567b081df51062e74a87d3eba07587b911f4e2da40e370bbb9a66"
 metafile = true
@@ -704,3 +724,7 @@ metafile = true
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "5a334201feff0fb2f76d486399f47d0ce5b5818c284fea895706c92bb2119470"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "194f3d0847ab167bbe8780d316b7ab8503643a23cb25cd79d57d91762bf1a7c9"
