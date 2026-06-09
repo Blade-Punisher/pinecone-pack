@@ -381,6 +381,11 @@ hash = "cd73757a8c093f490d5c7673ad17f4404622a485234b79dc43efa0e67788d66e"
 metafile = true
 
 [[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "6fae5b0b22162ebfd83dd6c6700feed60c489cbf18c919adaf43aadcb6786ac8"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
@@ -398,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-lang-forge.pw.toml"
+hash = "f22b9b2717d5c14f4d1f43329e1a9afc71806a1c311108b4ae0db858e9d90569"
 metafile = true
 
 [[files]]
@@ -688,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "51792be52a28307d13f582e7791add6d5974a9fc18ad2679f715c3ab10a9bc8b"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "5c0770a75c9bf48611d0fe965d6653f6904640170b42552eb25ace717a41ee6d"
 metafile = true
 
 [[files]]
