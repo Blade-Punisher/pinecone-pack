@@ -106,11 +106,6 @@ hash = "17cf45aaab6d4964d4d851cfcbe4b5e6db539a2329216392bec4aea1c90b83a7"
 metafile = true
 
 [[files]]
-file = "mods/caelus.pw.toml"
-hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
 metafile = true
@@ -273,11 +268,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "f52baae87b25fd13316a790da63e73c50bd5acf9a81db14585dec2a2cd9adb36"
-metafile = true
-
-[[files]]
-file = "mods/elytra-slot.pw.toml"
-hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
 
 [[files]]
