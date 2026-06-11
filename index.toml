@@ -351,6 +351,11 @@ hash = "543d2dac579c8de2e0035ffc0f33eff08c9b4267c981c397ecf14881a810a275"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "e88253c3633274c212b2c4628a26ba03ceba6afff561eb6f9488689fad4cad06"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "012e69931380a8d5b73776d255292d7d4c2cd12089273807dda56f944568eba0"
 metafile = true
@@ -668,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot.pw.toml"
 hash = "792770e773b1c15870ac7b80b42d3c8f4483d70f0e5594c9af35977a0b1f01c6"
+metafile = true
+
+[[files]]
+file = "mods/sodium-core-shader-support.pw.toml"
+hash = "91b4f86a60a84c6b8a81e4dde932630e9e5ca58f67cc0ffd50e00744ed36f4a0"
 metafile = true
 
 [[files]]
