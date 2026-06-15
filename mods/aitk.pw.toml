@@ -1,0 +1,13 @@
+name = "Arrow In The Knee"
+filename = "aitk-1.1.2-neoforge+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A0W9tMly/versions/IOBYEros/aitk-1.1.2-neoforge%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "03dba164c21a6cd1483abc3ee593d198e2ea55faf4db691fd7d97e17e1fa92cb466fd626a71aaa43f0de6eb0ef519d5ba1f0f95f1932bf54d0ee1690e633f532"
+
+[update]
+[update.modrinth]
+mod-id = "A0W9tMly"
+version = "IOBYEros"
