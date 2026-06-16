@@ -421,6 +421,11 @@ hash = "75b43f1a86593360f10703b7625da4e0a3c435bf13bf8b5b75fa383a0338dade"
 metafile = true
 
 [[files]]
+file = "mods/immersive-portals-neoforge.pw.toml"
+hash = "ac0f4ecde3f081c4b951981b3d2ea8c08b49e61399b13a91e23d84c59306cac1"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
 metafile = true
