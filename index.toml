@@ -686,8 +686,8 @@ hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]
-file = "mods/sable.pw.toml"
-hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+file = "mods/scalablelux.pw.toml"
+hash = "2c1661e65d47c2942d2c3e926698d0762672224f1925c7f25105b964ce25b093"
 metafile = true
 
 [[files]]
@@ -743,11 +743,6 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot.pw.toml"
 hash = "792770e773b1c15870ac7b80b42d3c8f4483d70f0e5594c9af35977a0b1f01c6"
-metafile = true
-
-[[files]]
-file = "mods/sodium-core-shader-support.pw.toml"
-hash = "91b4f86a60a84c6b8a81e4dde932630e9e5ca58f67cc0ffd50e00744ed36f4a0"
 metafile = true
 
 [[files]]
