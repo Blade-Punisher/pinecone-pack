@@ -406,11 +406,6 @@ hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
-file = "mods/hostile-mobs-improve-over-time.pw.toml"
-hash = "6221154a0872c156032adccca907d603fc3b35b757cd926ae6913adb12bed9cb"
-metafile = true
-
-[[files]]
 file = "mods/illager-invasion.pw.toml"
 hash = "bf9baef8bb1145e580ae8ee57b285e22838e943c56a96ffb424fd02bf99c468e"
 metafile = true
