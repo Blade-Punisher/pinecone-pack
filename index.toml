@@ -126,6 +126,11 @@ hash = "17cf45aaab6d4964d4d851cfcbe4b5e6db539a2329216392bec4aea1c90b83a7"
 metafile = true
 
 [[files]]
+file = "mods/cbc-enchanced-shells-create-big-cannons.pw.toml"
+hash = "eae74034be003c52c955e62c727a95ab5302ab8ed5ca12d6a846f800ae2c93f0"
+metafile = true
+
+[[files]]
 file = "mods/chat-plus.pw.toml"
 hash = "e71c0923b00be80f29994c5e545ad2ece3a2781b4435325231bab2522487fda7"
 metafile = true
@@ -182,7 +187,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
+hash = "b6ac94e91f766466186d350ed45a79fdcf7805f34d9170ccc8612ff47983a5f5"
+metafile = true
+
+[[files]]
+file = "mods/create-broken-bad-fabric.pw.toml"
+hash = "5117f179779ec5be73a5d36dc5055e1aaafe97672e9b39d39b46b0d433cc27aa"
 metafile = true
 
 [[files]]
@@ -247,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -661,6 +671,11 @@ hash = "809143c1dc3535485a4faf858d4a10d06e0e8f3939cd78c51e9f83b11b98e704"
 metafile = true
 
 [[files]]
+file = "mods/ritchies-projectile-library.pw.toml"
+hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
+metafile = true
+
+[[files]]
 file = "mods/roadweaver.pw.toml"
 hash = "4a729e87f0d60deaf6670ce830b358849c92e9b2d7a12f55d8c07282a26b916b"
 metafile = true
@@ -748,6 +763,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/stone-x-iron-chests.pw.toml"
+hash = "57c86e2f7f29916cb0c083138fcaea0930a271188d0b3528cacc4a690cbc08ae"
 metafile = true
 
 [[files]]

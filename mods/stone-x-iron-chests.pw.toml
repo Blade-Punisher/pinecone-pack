@@ -1,0 +1,13 @@
+name = "Stone x Iron Chests"
+filename = "stone_x_iron_chests-1.21.1-1.3.0-recipes-fix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mqW6BLNe/versions/HbVvv9NH/stone_x_iron_chests-1.21.1-1.3.0-recipes-fix.jar"
+hash-format = "sha512"
+hash = "0c6de556c38c01890f6c2fa65526d0ee364550874d4ba67fa910b6ff141172e5114d48fdbde2353c9eb44956dbfa4cda3f66cebd603514b6afd8ecae428ba0a0"
+
+[update]
+[update.modrinth]
+mod-id = "mqW6BLNe"
+version = "HbVvv9NH"
