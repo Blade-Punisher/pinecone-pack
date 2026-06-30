@@ -766,11 +766,6 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
-file = "mods/stone-x-iron-chests.pw.toml"
-hash = "57c86e2f7f29916cb0c083138fcaea0930a271188d0b3528cacc4a690cbc08ae"
-metafile = true
-
-[[files]]
 file = "mods/structory.pw.toml"
 hash = "e2ab46d275b5037d19198f4cff55fe3e4672c3f5c8ca60e91d3b3e57ab13810c"
 metafile = true
